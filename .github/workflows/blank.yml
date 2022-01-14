@@ -27,4 +27,4 @@ jobs:
         cmd /c start.bat
     - name: WORKING.      
       run: |
-        ./loop.ps1  
+        ./loop.ps1
